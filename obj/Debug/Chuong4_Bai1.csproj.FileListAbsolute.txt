@@ -1,0 +1,10 @@
+D:\cslt2\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.exe.config
+D:\cslt2\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.exe
+D:\cslt2\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.pdb
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.csprojAssemblyReference.cache
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.frmtinhtong.resources
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.Properties.Resources.resources
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.csproj.GenerateResource.cache
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.csproj.CoreCompileInputs.cache
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.exe
+D:\cslt2\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.pdb
